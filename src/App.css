@@ -1,3 +1,4 @@
+/*Square*/
 .square {
   background: white;
   border: 1px solid gray;
@@ -16,3 +17,10 @@
 .square:focus {
   outline:none;
 }
+
+/* Board */
+ .board-row:after {
+  clear: both;
+  content: "";
+  display: table;
+ }
