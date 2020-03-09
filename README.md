@@ -7,12 +7,13 @@ To run this game on localhost:
 1. npm install - to install dependency if needed
 1. npm start - to run app on localhost
 
-![1](https://user-images.githubusercontent.com/44583106/76234635-455b9600-622a-11ea-91f4-fdae0bd1bc86.PNG)
+![1](https://user-images.githubusercontent.com/44583106/76235204-1134a500-622b-11ea-82fc-d5cefdb34038.PNG)
 
-![2](https://user-images.githubusercontent.com/44583106/76234637-45f42c80-622a-11ea-9ae5-05fc0b252cf9.PNG)
+![2](https://user-images.githubusercontent.com/44583106/76235206-11cd3b80-622b-11ea-9e8c-cdde8cbbb2e5.PNG)
 
-![3](https://user-images.githubusercontent.com/44583106/76234638-45f42c80-622a-11ea-8bd2-666fcc60390d.PNG)
+![3](https://user-images.githubusercontent.com/44583106/76235209-11cd3b80-622b-11ea-97c6-bcf69116a1ff.PNG)
 
-![4](https://user-images.githubusercontent.com/44583106/76234641-468cc300-622a-11ea-953c-7bc960c3351e.PNG)
+![4](https://user-images.githubusercontent.com/44583106/76235210-1265d200-622b-11ea-8e53-763987411286.PNG)
+
 
 
