@@ -1,7 +1,10 @@
+/*Background*/
+body {background-color: #F0F8FF}
+
 /*Square*/
 .square {
-  background: white;
-  border: 1px solid gray;
+  background:#F0FFFF;
+  border: 2px solid gray;
   float: left;
   margin-right: -1px;
   margin-top: -1px;
