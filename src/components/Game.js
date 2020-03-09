@@ -12,6 +12,12 @@ export default class Game extends Component {
             ]
         }
     }
+    jumpTo(step){
+        this.setState({
+            stepNumber: step,
+            xIsNext: (step%2)===0
+        })
+    }
 
     handleClick(i) {
         const history = this.state.history.slice(0, this.state.stepNumber + 1);
@@ -35,7 +41,7 @@ export default class Game extends Component {
         const current = history[this.state.stepNumber];
         const winner = calculateWinner(current.squares);
         const moves = history.map((step, move) => {
-            const desc = move ? 'Go to #' + move : 'Start the Game';
+            const desc = move ? 'Go to #' + move : 'Start/Reset the Game';
             return (
                 <li key={move}>
                     <button onClick={() => { this.jumpTo(move) }}>
